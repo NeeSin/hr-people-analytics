@@ -52,6 +52,6 @@ visualisation — relevant to People Analytics and HR Data roles.
 ---
 
 ## About
-Built by [Your Name] — HR & People Analytics professional with experience 
+Built by Neeti Singh — HR & People Analytics professional with experience 
 in talent acquisition and workforce research. Currently completing an MSc 
 in Applied Social Science Research at Stockholm University.
